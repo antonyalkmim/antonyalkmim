@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hello, I'm Antony Alkmim!
 
-<!--
-**antonyalkmim/antonyalkmim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer at [Stone](https://github.com/stone-payments).
 
-Here are some ideas to get you started:
+My primary focus today is on mobile app development, using native techs like Swift/Objc and Kotlin for iOS and Android respectively. Recently I also started to working with Kotlin Multiplatform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to mobile development, I also enjoy working on backend development projects using Node.js or even creating CLIs with python or ruby.
+
+[![Linkedin: antonyalkmim](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonyalkmim/)](https://www.linkedin.com/in/antonyalkmim/) [![Twitter Follow](https://img.shields.io/twitter/follow/antonyalkmim?style=social)](https://twitter.com/antonyalkmim) 
+
+
+## Technologies
+
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)](https://developer.apple.com/ios/) [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org/) [![SwiftUI](https://img.shields.io/badge/SwiftUI-FF4400?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) [![RxSwift](https://img.shields.io/badge/RxSwift-FF4D3B?style=flat&logo=reactivex&logoColor=white)](https://github.com/ReactiveX/RxSwift)
+ [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/) [![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)](https://fastlane.tools/) [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/) [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
